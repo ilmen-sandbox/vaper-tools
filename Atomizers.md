@@ -9,7 +9,7 @@
 
 ###Выбор вкусовой дрипки:
 
-* ****Derringer V3 RDA (V3, 22 mm, 304 SS, Black)****   
+* ***Derringer V3 RDA (V3, 22 mm, 304 SS, Black)***   
     * $7.28  
     * [FastTech link](https://www.fasttech.com/products/3028/10012406/4567402)  
     * 22 мм  
