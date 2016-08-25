@@ -1,6 +1,6 @@
 # Намотки
 
 <details> 
-  What is the best Language in the World?
+  <summary> What is the best Language in the World? </summary>
   Spoiler text
 </details>
