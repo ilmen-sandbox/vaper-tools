@@ -2,8 +2,15 @@
 
 * [vapemap.ru - карта с оффлайновыми магазинами](http://vapemap.ru)
 * [F.A.Q. по парению (статьи в VK)](https://vk.com/topic-62982557_31375839)
-* ["Запас мощности" - русский магазин АКБ](http://www.zapas-m.ru/shop/CID_hi-drain_Li-Ion-batteries.html)  
-* [Русский магазин АКБ (сслыка битая?)](http://flavourartexpress.ru/li-ion.html)  
+
+
+## АКБ
+* Магазины:
+  * ["Запас мощности" - русский магазин АКБ](http://www.zapas-m.ru/shop/CID_hi-drain_Li-Ion-batteries.html)  
+  * [Русский магазин АКБ (сслыка битая?)](http://flavourartexpress.ru/li-ion.html)  
+* Тесты:
+  * [Хороший обзор популярных АКБ от MadVaper.ru](http://madvaper.ru/hi-drain-shit/)
+  * [Немецкий сайт с тестами большинства АКБ](http://www.dampfakkus.de/akku_liste-nach-marke.php)
 
 # Контакты
 * [Артём Бокариус](https://vk.com/b_boy_art)  
