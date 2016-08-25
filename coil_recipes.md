@@ -1,11 +1,17 @@
 # Намотки
 
+## Для cloud chasing
+
 <details> 
-  <summary> What is the best Language in the World? </summary>
-  Spoiler text
+  <summary> Квадрокоил для Velocity </summary>
+  Материал: 0,4 кантал
+  Отправка: 2,5 мм
+  Витков: 11 витков
+  Тип: микрокоил
+  Сопротивление: ~0.3 Ом
+  
+  4 спирали устанавливаем в Velocity, по две с каждой стороны, распологаем друг над другом.
+  > Вату под коилы не заводить!
+  Парить на мощности 70W
 </details> 
 
->! asd1
->! asd2
->! asd3
->! asd4
