@@ -40,6 +40,15 @@
     * просторная, подходит для порнокоилов  
     * есть squeeze-болт  
     
+* Stillare V4 RDA (Stillare V4 (22mm), 304 SS, Silver)  
+    * $7.16  
+    * [FastTech link](https://www.fasttech.com/products/3028/10007916/4568100)  
+    * **Нижний и боковой обдувы**  
+    * **вкусная**  
+    * **velocity-стойки**  
+    * **черная версия дороже**  
+    * тонкая регулировка обдува  
+    
 * Vengeance RDA (22 mm, SS, Black)  
     * $7.73  
     * [FastTech link](https://www.fasttech.com/products/3028/10013347/2254900)  
