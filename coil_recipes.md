@@ -1,6 +1,6 @@
 # Намотки
 
 <details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
+  What is the best Language in the World?
+  Spoiler text
 </details>
