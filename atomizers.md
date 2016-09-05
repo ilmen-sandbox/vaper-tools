@@ -20,7 +20,14 @@
     * **возможно парение на одной спирали**  
     * отличная для стелс-парения  
     * делриновый дрип-тип (спасет от ожогов)  
-
+* ***Wotofo Freakshow RDA (22 mm, SS)***  
+    * $8.73  
+    * [FastTech link](https://www.fasttech.com/products/0/10016489/3822900-authentic-wotofo-freakshow-rda-rebuildable)  
+    * 22 мм  
+    * **вкусная**  
+    * **нижний обдув**  
+    * **цена**  
+    * **возможно парение на одной спирали**  
 * IVOGO Velocity RDTA (Velocity, SS + Glass, Black)  
     * $13.5  
     * [FastTech link](https://www.fasttech.com/products/3028/10019922/4221301)  
