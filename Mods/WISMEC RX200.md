@@ -2,6 +2,6 @@
 
 
 ### Смена 510 коннектора
-  * (Француз)[https://www.youtube.com/watch?v=IM42T5H4yIg]  
-  * (Русский)[https://www.youtube.com/watch?v=3dVGhHqsdhE]  
+  * [Француз](https://www.youtube.com/watch?v=IM42T5H4yIg)  
+  * [Русский](https://www.youtube.com/watch?v=3dVGhHqsdhE)  
   
