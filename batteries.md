@@ -18,5 +18,6 @@
 * [SONY VTC6, 30A, 3000mA, 850 р.](http://www.zapas-m.ru/shop/UID_18650_3000mach_sony_us18650vtc6_3_6v_30a_nezashchishchennyy_li_ion_akkumulyator_vysokoy_moshchnosti.html) [(Обзор)](http://forum.fonarevka.ru/showthread.php?t=33036)
 
 ## Зарядные устройства:
-* Nitecore I2 (2 акб, нечему ломаться)
-* Nitecore D4 (4 акб, дисплей)
+* Nitecore I2 New (2 акб, нечему ломаться)
+* Nitecore I4 New (4 акб, нечему ломаться)
+* ~~Nitecore серия D~~ (не нужна, т.к. переплата только за более красивый экран)
