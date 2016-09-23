@@ -69,6 +69,10 @@
     * тонкая регулировка обдува  
     * делриновый топкэп  
 
+### Купленное
+* Клон Velocity RDA V2 (22 mm, SS, Black)
+* Клон Tsunami RDA (22 mm, SS, Silver)
+* Клон Geekvape Griffin RTA (22 mm, SS, Silver)
 * Derringer V3 RDA (V3, 22 mm, 304 SS, Black)   
     * $7.28  
     * [FastTech link](https://www.fasttech.com/products/3028/10012406/4567402)  
