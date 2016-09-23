@@ -31,16 +31,6 @@
     * средний вкус  
     * влезуть среднего размера порнокоилы  
     
-* Velocity RDA (22 mm, SS, Black (1:1))  
-    * $8.34  
-    * [FastTech link](https://www.fasttech.com/products/3028/10014538/2513500)  
-    * 22 мм  
-    * старая версия  
-    * хороший обдув  
-    * средний вкус  
-    * просторная, подходит для порнокоилов  
-    * есть squeeze-болт  
-    
 * Stillare V4 RDA (Stillare V4 (22mm), 304 SS, Silver)  
     * $7.16  
     * [FastTech link](https://www.fasttech.com/products/3028/10007916/4568100)  
