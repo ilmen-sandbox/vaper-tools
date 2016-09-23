@@ -1,8 +1,10 @@
 #Атомайзеры
 
 ##Сейчас есть:
-- Velocity V2
-- Derringer V3
+- Derringer V3 (22 mm, SS, Black)
+- Клон Velocity RDA V2 (22 mm, SS, Black)
+- Клон Tsunami RDA (22 mm, SS, Silver)
+- Клон Geekvape Griffin RTA (22 mm, SS, Silver)
 
 ##Хочу добавить в коллецию:
 * Вкусовой RDA
@@ -68,20 +70,3 @@
     * **вместительная deck'а (еще и 25 мм же)**  
     * тонкая регулировка обдува  
     * делриновый топкэп  
-
-### Купленное
-* Клон Velocity RDA V2 (22 mm, SS, Black)
-* Клон Tsunami RDA (22 mm, SS, Silver)
-* Клон Geekvape Griffin RTA (22 mm, SS, Silver)
-* Derringer V3 RDA (V3, 22 mm, 304 SS, Black)   
-    * $7.28  
-    * [FastTech link](https://www.fasttech.com/products/3028/10012406/4567402)  
-    * 22 мм  
-    * **миниатюрная**  
-    * **velocity-стойки**  
-    * **очень вкусная из-за малых размеров**  
-    * **цена**  
-    * **возможно парение на одной спирали**  
-    * отличная для стелс-парения  
-    * делриновый дрип-тип (спасет от ожогов) 
-    
