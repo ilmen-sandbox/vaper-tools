@@ -24,3 +24,20 @@
 *Производит основное количество пара.*
 * Дистиллированная вода (AD, АД)  
 *Нужна для лучшего смешивания компонентов между собой, ибо те обладают разной плотностью (можно, конечно, хорошо потрясти и тогда они перемешаются сами).*
+
+### Топ ароматизаторов
+  1. Strawberry Ripe
+  2. Strawberry
+  3. Cheesecake Graham Crust
+  4. Bavarian Cream
+  5. Dragonfruit
+  6. Blueberry Extra
+  7. Vanilla Bean Ice Cream
+  8. Banana cream
+  9. Fruit Circles
+  10. Vanilla custard (заменяет почти любой крем и многое из ванильных аром)
+  11. Bubblegum
+  12. Water melon
+  13. Honeydew
+  14. Peppermint
+  15. Koolada
